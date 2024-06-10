@@ -1,2 +1,2 @@
-# fso-notes-backend
-fso-notes-backend (part3b)
+# fso-part3-notes-backend
+fso-part3-notes-backend (part3b)
